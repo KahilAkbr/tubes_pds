@@ -5,3 +5,5 @@ Output:
 Plot TimeSeries
 Plot SweepSeries
 cMap visualisasi hutan yang terbakar tiap bulannya
+
+W/ Andi dan Elang :O
